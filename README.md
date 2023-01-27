@@ -1,5 +1,5 @@
 # JavaScript-Fundamentals
-[ ] Coding Basics in JavaScript
+[] Coding Basics in JavaScript
 [ ] Build, Search and Manipulate Data Structures
     - Array Manipulation: Techniques for Manipulating Lists of Data
     - Building Data Structures: Build Data Structures and Understand Their Respective Tradeoffs
